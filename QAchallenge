@@ -67,7 +67,6 @@ Objective : Verify that a user is not created with an email adrress that already
 Preconditions: 
 1) The user is on the creation page
 
-
 Test Steps:
 1) Enter a valid email that already exist in the database : "abcdef@example.com".
 2) Enter a valid name : "Elizabeth".
